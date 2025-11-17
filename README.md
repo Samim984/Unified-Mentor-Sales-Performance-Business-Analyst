@@ -110,3 +110,35 @@ The goal of the dashboard is to:
 │
 └── 📄 README.md
 
+
+---
+
+## 🧩 Internship Details
+
+**Organization:** Unified Mentor Pvt. Ltd.  
+**Domain:** Business Analytics  
+**Duration:** Jan 2026 – May 2026  
+**Project:** Financial Performance Dashboard  
+**Role:** Business Analyst Intern  
+
+---
+
+## 🚀 How to Use
+
+1. Import the `.pbix` file into Power BI  
+2. Load dataset from `/data` folder  
+3. Refresh Date Table & relationships  
+4. Choose any country (Brazil, Canada, Germany, Mexico, USA, France)  
+5. Navigate between:
+   - **Performance Overview**
+   - **Prediction & Solution**
+
+---
+
+## 🧩 Acknowledgement
+
+Special thanks to **Unified Mentor Pvt. Ltd.** for guiding me through real business analytics and dashboard storytelling.
+
+💬 *“Data becomes powerful when it turns into insight — visualization turns insight into action.”*
+
+
