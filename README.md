@@ -19,16 +19,6 @@ The goal of the dashboard is to:
 - Provide a clean, interactive, story-driven BI experience.
 
 ---
-📂 Unified-Mentor-Financial-Performance
-│
-├── 📁 data/
-│ ├── Financial_performance.csv
-│ ├── DateTable.csv
-│
-├── 📁 powerbi/
-│ └── Financial_Performance.pbix
-│
-└── 📄 README.md
 
 ## ⚙️ Tech Stack
 
@@ -108,4 +98,15 @@ The goal of the dashboard is to:
 
 
 ## 🌐 Project Structure
+
+📂 Unified-Mentor-Financial-Performance
+│
+├── 📁 data/
+│ ├── Financial_performance.csv
+│ ├── DateTable.csv
+│
+├── 📁 powerbi/
+│ └── Financial_Performance.pbix
+│
+└── 📄 README.md
 
